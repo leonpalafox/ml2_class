@@ -79,6 +79,10 @@ En caso de alguna situación extraordinaria se deberá platicarlo con el profeso
 
 # Tareas
 
+# Pizarrones de Jamboard
+
+- [Clase 1](https://jamboard.google.com/d/1R0VUOH8WcOBT1Ys6tJG5hcZR8aYiPOZ9kDh2eTlZQVs/viewer)
+
 
 # Libros de texto
 
