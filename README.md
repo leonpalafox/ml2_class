@@ -70,7 +70,9 @@ En caso de alguna situación extraordinaria se deberá platicarlo con el profeso
 
 # Slides
 
+# Código
 
+- [Reinforcement Learning](https://colab.research.google.com/drive/1UqXDKrEKhRX8qRh0Q0k8_UWUvXsSTrJ8)
 
 # Datos
 
