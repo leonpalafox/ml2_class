@@ -70,9 +70,13 @@ En caso de alguna situación extraordinaria se deberá platicarlo con el profeso
 
 # Slides
 
+- [Clase 1](https://github.com/leonpalafox/ml2_class/blob/master/Slides/UPML22020_1.pptx)
+- [Clase 2](https://github.com/leonpalafox/ml2_class/blob/master/Slides/UPML22020_2.pptx)
+- [Clase 3](https://github.com/leonpalafox/ml2_class/blob/master/Slides/UPML22020_3.pptx)
+
 # Código
 
-- [Reinforcement Learning](https://colab.research.google.com/drive/1UqXDKrEKhRX8qRh0Q0k8_UWUvXsSTrJ8
+- [Reinforcement Learning](https://colab.research.google.com/drive/1UqXDKrEKhRX8qRh0Q0k8_UWUvXsSTrJ8)
 
 # Datos
 
