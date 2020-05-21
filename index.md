@@ -73,11 +73,15 @@ En caso de alguna situación extraordinaria se deberá platicarlo con el profeso
 - [Clase 1](https://github.com/leonpalafox/ml2_class/blob/master/Slides/UPML22020_1.pptx)
 - [Clase 2](https://github.com/leonpalafox/ml2_class/blob/master/Slides/UPML22020_2.pptx)
 - [Clase 3](https://github.com/leonpalafox/ml2_class/blob/master/Slides/UPML22020_3.pptx)
+- [Clase 4](https://github.com/leonpalafox/ml2_class/blob/master/Slides/UPML22020_4.pptx)
+- [Clase 5](https://github.com/leonpalafox/ml2_class/blob/master/Slides/UPML22020_5.pptx)
+- [Clase 6](https://github.com/leonpalafox/ml2_class/blob/master/Slides/UPML22020_6.pptx)
 
 
 # Código
 
 - [Reinforcement Learning](https://colab.research.google.com/drive/1UqXDKrEKhRX8qRh0Q0k8_UWUvXsSTrJ8)
+- [Inferencia Bayesiana](https://colab.research.google.com/drive/12plBBSd1rFwNcNBAhvxd_6HZjfcpSI9F?usp=sharing)
 
 # Datos
 
