@@ -1,5 +1,4 @@
 
-
 - [Introducción](#introduccion)
 - [Objetivo](#objetivo)
 - [Estructura del Curso:](#estrctura-del-curso)
@@ -18,7 +17,7 @@
 
 # Introduccion
 
-En esta clase veremos técnicas avanzadas de Machine Learning y sus aplicaciones en la industria. Conoceremos tecnicas mas avanzadas de aprendizaje supervisado y no supervisado, asi como de aprendizaje reforzado.
+En esta clase veremos técnicas avanzadas de Machine Learning y sus aplicaciones en la industria. Conoceremos técnicas mas avanzadas de aprendizaje supervisado y no supervisado, asi como de aprendizaje reforzado.
 
 # Objetivo
 
@@ -63,7 +62,6 @@ En caso de alguna situación extraordinaria se deberá platicarlo con el profeso
 1. Introducción
 2. Bases teóricas
 3. Aprendizaje reforzado.
-4. Redes Neuronales
 5. Análisis Bayesiano de Datos
 6. Examen Final y Entrega de Proyectos
 
@@ -71,8 +69,10 @@ En caso de alguna situación extraordinaria se deberá platicarlo con el profeso
 # Slides
 
 - [Clase 1](https://github.com/leonpalafox/ml2_class/blob/master/Slides/UPML22020_1.pptx)
+- [Revisión Conceptual](https://github.com/leonpalafox/ml2_class/blob/master/Slides/RevisionConceptual.pptx)
 - [Clase 2](https://github.com/leonpalafox/ml2_class/blob/master/Slides/UPML22020_2.pptx)
 - [Clase 3](https://github.com/leonpalafox/ml2_class/blob/master/Slides/UPML22020_3.pptx)
+- [Inferencia Bayesiana](https://github.com/leonpalafox/ml2_class/blob/master/Slides/Bayesian_inference.pptx)
 - [Clase 4](https://github.com/leonpalafox/ml2_class/blob/master/Slides/UPML22020_4.pptx)
 - [Clase 5](https://github.com/leonpalafox/ml2_class/blob/master/Slides/UPML22020_5.pptx)
 - [Clase 6](https://github.com/leonpalafox/ml2_class/blob/master/Slides/UPML22020_6.pptx)
@@ -85,15 +85,16 @@ En caso de alguna situación extraordinaria se deberá platicarlo con el profeso
 
 # Datos
 
+- [Folder con los datos](https://github.com/leonpalafox/ml2_class/tree/master/data)
 
 
 
 # Tareas
 
+
 # Pizarrones de Jamboard
 
 - [Clase 1](https://jamboard.google.com/d/1R0VUOH8WcOBT1Ys6tJG5hcZR8aYiPOZ9kDh2eTlZQVs/viewer)
-
 
 # Libros de texto
 
@@ -113,3 +114,5 @@ Se require una computadora con Python instalado.
 # Politicas
 
 Se pueden utilizar teléfonos y bipers, siempre y cuando no molestén al resto del salón.
+
+
